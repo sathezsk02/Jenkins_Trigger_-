@@ -5,6 +5,7 @@ class Trigger
 	
 System.out.println("This is Triggered");
 System.out.println("It is fired");
+System.out.println("It is hirfying memory");
 
 }
 }
